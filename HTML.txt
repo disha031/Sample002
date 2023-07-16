@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<head>
+SQUARE
+</head>
+<script type="text/javascript">
+var a=10;
+s=a*a;
+document.write(s);
+</script>
+</html>
+
+
